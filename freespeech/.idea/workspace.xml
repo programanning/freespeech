@@ -6,7 +6,18 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="749f6db5-922f-40d1-9c4b-86f015072946" name="Default" comment="" />
+    <list default="true" id="749f6db5-922f-40d1-9c4b-86f015072946" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/library_1_0_0.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/freespeech/ShakeDetector.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/../.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/../.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/../.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/app.iml" afterPath="$PROJECT_DIR$/../app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/build.gradle" afterPath="$PROJECT_DIR$/../app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/freespeech/OpenService.java" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/freespeech/OpenService.java" />
+    </list>
     <ignored path="freespeech.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,9 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -93,9 +101,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">

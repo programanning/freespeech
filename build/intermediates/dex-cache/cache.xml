@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/6a868b5464abc8b223cd1d5d2b331c757bcfa7de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55f58ba7ee1b2cdfe58afbeb2d4bceecf7322fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1367b065756079fa66424c6f618a10e0cf87618f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_73de6843218accfe8da39e756b85ff1dc2e21f06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/014b7ea66e743b132020ed3fb809da4e283809df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f846af26eede5c67d7cecd0cd778dc7d2a5465a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/3284945ba489e7dcb2fc28b06467a6f15ccbb9dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a312454a0ec86a7f0f8850fe3b1161b2bdd95131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/2afe6cd3a04bc2d394d2e6cff8f087a35c14a649/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18a975c17289c5dfa680350e2a906a8747309f39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/3e54eac97e48672587b71e62a63c35406cbfb5e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1f65cb1b4c9a197e9ce403a3380213ba0d13544/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/5c783075567ec1331dfd57c3a15395af04e48bda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51ec02e4cc286c5c69a2dcdfd7f5fe0a3f2a539e">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34c804893a6e58a2deaf1d0493a8add61da229b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/187a5c008118d24983a0608b8e3d50e4941d358e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b46fbc23a1f061140bb5416016f732f341654651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/54263667bac03471030f1dbc0b0a6c470a723dde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa30bb7b07444a7d54a30b503648460e52384a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/8d6600c0540818f0d941245eb231e61d426bb8dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a56bddb1190e646abefdaad99aefed54fd0c488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/9c2f4ed3f63fb8d9b116713c4aea9d0131303eb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81473d2405ba78335009905e2572896cc3611be7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/StudioProjects/freespeech/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a90886d64bf39a84a019b518745ac9149583359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/StudioProjects/freespeech/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14c6715e4e95b1217fd2b60ed8deb547f92fa144">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c262d76c89ac31a6445f6489b2ca0ee751acd0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nunya/.android/build-cache/4883dac40b6534a6f853cf3621649283be0d48ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d535e6235e2ea9128c50f25b240eef1af87bfaf/classes.dex" />
+    </item>
+
+</items>
