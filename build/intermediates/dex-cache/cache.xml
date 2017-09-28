@@ -111,21 +111,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/nunya/StudioProjects/freespeech/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9220c3912a245f72525c52cae9340ab8c0fec205">
+        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c262d76c89ac31a6445f6489b2ca0ee751acd0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/nunya/StudioProjects/freespeech/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a90886d64bf39a84a019b518745ac9149583359/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/nunya/StudioProjects/freespeech/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="14c6715e4e95b1217fd2b60ed8deb547f92fa144">
-        <dex dex="/home/nunya/StudioProjects/freespeech/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c262d76c89ac31a6445f6489b2ca0ee751acd0d/classes.dex" />
     </item>
     <item
         is-multidex="true"

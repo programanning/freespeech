@@ -1,13 +1,19 @@
 package com.example.freespeech;
 
+import android.app.Activity;
+import android.app.KeyguardManager;
 import android.app.Service;
-        import android.content.Intent;
+import android.app.admin.DevicePolicyManager;
+import android.content.Context;
+import android.content.Intent;
         import android.hardware.Sensor;
         import android.hardware.SensorEvent;
         import android.hardware.SensorEventListener;
         import android.hardware.SensorManager;
         import android.os.IBinder;
-        import android.widget.Toast;
+import android.os.PowerManager;
+import android.view.WindowManager;
+import android.widget.Toast;
 
 public class OpenService  extends Service implements SensorEventListener {
     SensorManager sensorManager;
@@ -91,8 +97,19 @@ public class OpenService  extends Service implements SensorEventListener {
                     long totalDuration = now - mFirstDirectionChangeTime;
                     if (totalDuration < MAX_TOTAL_DURATION_OF_SHAKE) {
 //                        ADD OPEN CODE HERE!!!
-                        Toast.makeText(getApplicationContext(), "Shaked", Toast.LENGTH_LONG).show();
-                        resetShakeParameters();
+
+                        KeyguardManager myKM = (KeyguardManager) this.getSystemService(Context.KEYGUARD_SERVICE);
+                        if (myKM.inKeyguardRestrictedInputMode()){
+                            PowerManager pm = (PowerManager) getApplicationContext().getSystemService(Context.POWER_SERVICE);
+                            PowerManager.WakeLock wakeLock = pm.newWakeLock((PowerManager.SCREEN_BRIGHT_WAKE_LOCK | PowerManager.FULL_WAKE_LOCK | PowerManager.ACQUIRE_CAUSES_WAKEUP), "TAG");
+                            wakeLock.acquire();
+
+                            KeyguardManager keyguardManager = (KeyguardManager) getApplicationContext().getSystemService(Context.KEYGUARD_SERVICE);
+                            KeyguardManager.KeyguardLock keyguardLock = keyguardManager.newKeyguardLock("TAG");
+
+                            keyguardLock.disableKeyguard();
+                            resetShakeParameters();
+                        }
                     }
                 }
 
